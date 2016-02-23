@@ -18,10 +18,10 @@
 
 ##Built by:
 <ol>
-[<li>Dennis Koech</li>][1]
-[<li>Anthony Ng'anga</li>][2]
-[<li>Dismas Imaya</li>][3]
+<li>[Dennis Koech][1]</li>
+<li>[Anthony Ng'anga][2]</li>
+<li>[Dismas Imaya][3]</li>
 </ol>
-[1]:https://github.com/denyskoech
-[2]:https://github.com/meshnesh
-[3]:https://github.com/ImayaDismas
+[1]: https://github.com/denyskoech
+[2]: https://github.com/meshnesh
+[3]: https://github.com/ImayaDismas

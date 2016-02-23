@@ -17,11 +17,10 @@
 ##Technologies used
 
 ##Built by:
-<ol>
-<li>[Dennis Koech][1]</li>
-<li>[Anthony Ng'anga][2]</li>
-<li>[Dismas Imaya][3]</li>
-</ol>
+[Dennis Koech][1]
+[Anthony Ng'anga][2]
+[Dismas Imaya][3]
+
 [1]: https://github.com/denyskoech
 [2]: https://github.com/meshnesh
 [3]: https://github.com/ImayaDismas

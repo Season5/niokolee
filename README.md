@@ -13,13 +13,15 @@
 <li>The system matches the geolocation of the people</li>
 <li>It matches the likes of each others item and link them</li>
 <li>Then users chat on how to trade off</li>
-<li>Users trade off</li>
 </ol>
 ##Technologies used
 
 ##Built by:
 <ol>
-<li>Dennis Koech</li>
-<li>Anthony Ng'anga</li>
-<li>Dismas Imaya</li>
+<li>[Dennis Koech][1]</li>
+<li>[Anthony Ng'anga][2]</li>
+<li>[Dismas Imaya][3]</li>
 </ol>
+[1]:https://github.com/denyskoech
+[2]:https://github.com/meshnesh
+[3]:https://github.com/ImayaDismas

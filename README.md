@@ -18,9 +18,9 @@
 
 ##Built by:
 <ol>
-<li>[Dennis Koech][1]</li>
-<li>[Anthony Ng'anga][2]</li>
-<li>[Dismas Imaya][3]</li>
+<li>[Dennis Koech](https://github.com/denyskoech)</li>
+<li>[Anthony Ng'anga](https://github.com/meshnesh)</li>
+<li>[Dismas Imaya](https://github.com/ImayaDismas)</li>
 </ol>
 [1]:https://github.com/denyskoech
 [2]:https://github.com/meshnesh

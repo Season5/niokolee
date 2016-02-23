@@ -17,9 +17,9 @@
 ##Technologies used
 
 ##Built by:
-[Dennis Koech][1]
-[Anthony Ng'anga][2]
-[Dismas Imaya][3]
+[Dennis Koech][1]</br>
+[Anthony Ng'anga][2]</br>
+[Dismas Imaya][3]</br>
 
 [1]: https://github.com/denyskoech
 [2]: https://github.com/meshnesh
